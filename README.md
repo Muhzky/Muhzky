@@ -46,6 +46,6 @@ Saya adalah mahasiswa teknik komputer, saat ini berada di pertengahan gelar. Say
   
   [![Muh. Zacky Wal Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhzky&rank_icon=github&show_icons=true)](https://github.com/muhzky/github-readme-stats)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=muhzky&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats-five-navy-83.vercel.app?user=Muhzky&card_width=468)](https://git.io/streak-stats)
 
 </div>
