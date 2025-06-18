@@ -43,8 +43,8 @@ Saya adalah mahasiswa teknik komputer, saat ini berada di pertengahan gelar. Say
 
 ## Github stats
 <div align="center">
-
-[![Muh Zacky Wal Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhzky&rank_icon=github&show_icons=true&bg_color=00000000)](https://github.com/muhzky/github-readme-stats#gh-dark-mode-only)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhzky&short_numbers=true&card_width=470&card_height=170)](https://git.io/streak-stats)
+  
+  [![Muh. Zacky Wal Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhzky&rank_icon=github&show_icons=true)](https://github.com/muhzky/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhzky&theme=dark)](https://git.io/streak-stats)
+  
 </div>
