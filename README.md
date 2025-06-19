@@ -8,7 +8,7 @@
 Saya adalah mahasiswa teknik informatika, saat ini berada di pertengahan gelar. Saya sedang memperluas pengetahuan saya di bidang pengembangan front-end dan back-end, dan saya suka belajar dan membuat sesuatu yang baru, produktif, inovatif, dan kreatif.
 
 
-## Tech
+## Tech Stack
 
 <span> 
   <img src="https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white">
