@@ -5,7 +5,7 @@
 
 ## About
 
-Saya adalah mahasiswa teknik komputer, saat ini berada di pertengahan gelar. Saya sedang memperluas pengetahuan saya di bidang pengembangan front-end dan back-end, dan saya suka belajar dan membuat sesuatu yang baru, produktif, inovatif, dan kreatif.
+Saya adalah mahasiswa teknik informatika, saat ini berada di pertengahan gelar. Saya sedang memperluas pengetahuan saya di bidang pengembangan front-end dan back-end, dan saya suka belajar dan membuat sesuatu yang baru, produktif, inovatif, dan kreatif.
 
 
 ## Tech
